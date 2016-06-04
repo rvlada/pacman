@@ -3,7 +3,10 @@
 typings
 data-mocks
 
-*.js.map
+app/**/*.js
+app/**/*.js.map
+app/**/*.spec.js
+app/**/*.spec.js.map
 
 ### Node template
 # Logs
